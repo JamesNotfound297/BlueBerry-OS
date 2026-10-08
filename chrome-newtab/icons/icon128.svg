@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4285f4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a73e8;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- 背景圆 -->
+  <circle cx="64" cy="64" r="60" fill="url(#bgGrad)"/>
+  <!-- Chrome 风格圆环 - 红 -->
+  <path d="M 64 20 A 44 44 0 0 1 102.15 58 L 64 58 Z" fill="#ea4335"/>
+  <!-- Chrome 风格圆环 - 黄 -->
+  <path d="M 102.15 58 A 44 44 0 0 1 46.5 95.05 L 64 58 Z" fill="#fbbc05"/>
+  <!-- Chrome 风格圆环 - 绿 -->
+  <path d="M 46.5 95.05 A 44 44 0 0 1 25.85 58 L 64 58 Z" fill="#34a853"/>
+  <!-- 中心圆 -->
+  <circle cx="64" cy="64" r="22" fill="#ffffff"/>
+  <circle cx="64" cy="64" r="18" fill="#4285f4"/>
+  <!-- 高光效果 -->
+  <ellipse cx="50" cy="38" rx="20" ry="12" fill="white" opacity="0.15"/>
+</svg>
