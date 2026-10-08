@@ -2,8 +2,6 @@
 
 > 遵循 Material Design 3 和 Chrome OS 设计风格的浏览器起始页扩展
 
-**当前版本**：v0.2.1 · *Blue blue berry*
-
 ---
 
 ## ✨ 特性
